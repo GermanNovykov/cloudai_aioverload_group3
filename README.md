@@ -1,8 +1,6 @@
 # Cloud AI project
 
-## Group Name
-
-**AIOverload**
+## AIOverload
 
 ## Group Members
 
