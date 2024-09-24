@@ -2,15 +2,13 @@
 
 ## Group Name
 
-**[Your Group Name]**
+**[AIOverload]**
 
 ## Group Members
 
 - [German Novykov]
-- [Member 2's Name]
-- [Member 3's Name]
-- [Member 4's Name]
-- [Member 5's Name]
+- [Alex Pidnebesnyi]
+- [Mark Vaykul]
 
 ## Companies Tracked
 
