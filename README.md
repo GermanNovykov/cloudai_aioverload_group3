@@ -1,14 +1,14 @@
-# Stock Tracker Project
+# Cloud AI project
 
 ## Group Name
 
-**[AIOverload]**
+**AIOverload**
 
 ## Group Members
 
-- [German Novykov]
-- [Alex Pidnebesnyi]
-- [Mark Vaykul]
+- German Novykov
+- Alex Pidnebesnyi
+- Mark Vaykul
 
 ## Companies Tracked
 
